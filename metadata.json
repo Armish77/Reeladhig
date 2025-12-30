@@ -1,0 +1,8 @@
+{
+  "name": "ReelGenie AI",
+  "description": "An AI-powered video repurposing tool that converts long-form 16:9 videos into viral 9:16 vertical reels with auto-highlighting, smart reframing, and animated captions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
